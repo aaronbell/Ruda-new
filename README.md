@@ -1,6 +1,6 @@
 # Ruda New
 
-Ruda Cyrillic Latin expanded with turkish 
+Ruda Cyrillic Latin expanded with Turkish 
 
 ## Building
 
